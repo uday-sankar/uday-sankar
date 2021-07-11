@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @uday-sankar
+- 👀 I’m interested in Computational chemistry
+- 🌱 I’m currently learning the basics to tackle tp computational problems in Chemistry
+- 📫 How to reach me kuttanzusm@gmail.com
