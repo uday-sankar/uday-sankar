@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uday-sankar
-- 👀 I’m interested in Computational chemistry
-- 🌱 I’m currently learning the basics to tackle tp computational problems in Chemistry
-- 📫 How to reach me kuttanzusm@gmail.com
+- 👋 Hi, I’m Uday Sankar
+- 👀 A Chemsitry Student of NISER
+- 🌱 Trying to solve chemical mysteries with the help of computers
+- 📫 How to reach me mail:kuttanzusm@gmail.com phone:8590078757
