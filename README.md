@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Uday Sankar
 - 👀 A Chemsitry Student of NISER
 - 🌱 Trying to solve chemical mysteries with the help of computers
-- 📫 How to reach me mail:kuttanzusm@gmail.com phone:8590078757
+- 📫 How to reach me mail:kuttanzusm@gmail.com
